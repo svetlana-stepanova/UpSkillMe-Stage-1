@@ -14,3 +14,5 @@ task3 - Arrays and Cycles practical task.
 task4 - Prototype and Inheritance, Classes, Constructor practical task.
 
 task5 - String, RegExp, DateTime practical task.
+
+task6 - Exception handling practical task.
